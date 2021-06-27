@@ -1,5 +1,7 @@
 # memes
-memes
+
+It was utterly funny inside my head.
+
 <img width="384" alt="AI" src="https://user-images.githubusercontent.com/75936918/123542106-0e273600-d748-11eb-8af8-a20516736582.png">
 <img width="384" alt="UNIVERSE" src="https://user-images.githubusercontent.com/75936918/123542111-10899000-d748-11eb-87cd-daa0617e76c2.png">
 <img width="386" alt="CHINA2" src="https://user-images.githubusercontent.com/75936918/123542113-11babd00-d748-11eb-9805-8a1fbf2d127d.png">
